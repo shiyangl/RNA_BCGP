@@ -11,7 +11,7 @@ Through comprehensive experiments on two real-world datasets of lncRNA-miRNA and
 ## Model Framework Overview
 
 <p align="center">
-  <img src="./pic/Model_Framework.png" alt="Model_Framework" width="1000"/>
+  <img src="./pic/heterogeneousRNA.png" alt="Model_Framework" width="1000"/>
 </p>
 
 ## Installation
